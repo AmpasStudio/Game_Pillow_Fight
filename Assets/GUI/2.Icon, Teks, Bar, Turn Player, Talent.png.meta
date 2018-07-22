@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: 9764ae5a7807d574b85f0d7a4ec450e9
+timeCreated: 1519115276
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2.Icon, Teks, Bar, Turn Player, Talent_0
+    21300002: SinglePlayer
+    21300004: MultiPlayer
+    21300006: 2.Icon, Teks, Bar, Turn Player, Talent_3
+    21300008: 2.Icon, Teks, Bar, Turn Player, Talent_4
+    21300010: 2.Icon, Teks, Bar, Turn Player, Talent_5
+    21300012: 2.Icon, Teks, Bar, Turn Player, Talent_6
+    21300014: shield
+    21300016: 2.Icon, Teks, Bar, Turn Player, Talent_8
+    21300018: singleNotActive
+    21300020: 2.Icon, Teks, Bar, Turn Player, Talent_10
+    21300022: 2.Icon, Teks, Bar, Turn Player, Talent_11
+    21300024: 2.Icon, Teks, Bar, Turn Player, Talent_12
+    21300026: 2.Icon, Teks, Bar, Turn Player, Talent_13
+    21300028: 2.Icon, Teks, Bar, Turn Player, Talent_14
+    21300030: 2.Icon, Teks, Bar, Turn Player, Talent_15
+    21300032: 2.Icon, Teks, Bar, Turn Player, Talent_16
+    21300034: 2.Icon, Teks, Bar, Turn Player, Talent_17
+    21300036: heal1
+    21300038: 2.Icon, Teks, Bar, Turn Player, Talent_19
+    21300040: 2.Icon, Teks, Bar, Turn Player, Talent_20
+    21300042: SettingButton
+    21300044: 2.Icon, Teks, Bar, Turn Player, Talent_22
+    21300046: PlayButton
+    21300048: 2.Icon, Teks, Bar, Turn Player, Talent_24
+    21300050: 2.Icon, Teks, Bar, Turn Player, Talent_25
+    21300052: 2.Icon, Teks, Bar, Turn Player, Talent_26
+    21300054: heal2
+    21300056: 2.Icon, Teks, Bar, Turn Player, Talent_28
+    21300058: 2.Icon, Teks, Bar, Turn Player, Talent_29
+    21300060: 2.Icon, Teks, Bar, Turn Player, Talent_30
+    21300062: 2.Icon, Teks, Bar, Turn Player, Talent_31
+    21300064: 2.Icon, Teks, Bar, Turn Player, Talent_32
+    21300066: 2.Icon, Teks, Bar, Turn Player, Talent_33
+    21300068: twice
+    21300070: 2.Icon, Teks, Bar, Turn Player, Talent_35
+    21300072: 2.Icon, Teks, Bar, Turn Player, Talent_36
+    21300074: 2.Icon, Teks, Bar, Turn Player, Talent_37
+    21300076: 2.Icon, Teks, Bar, Turn Player, Talent_38
+    21300078: 2.Icon, Teks, Bar, Turn Player, Talent_39
+    21300080: choosen
+    21300082: gembok
+    21300084: 2.Icon, Teks, Bar, Turn Player, Talent_42
+    21300086: confirm
+    21300088: angin0
+    21300090: poison
+    21300092: 2.Icon, Teks, Bar, Turn Player, Talent_46
+    21300094: 2.Icon, Teks, Bar, Turn Player, Talent_47
+    21300096: 2.Icon, Teks, Bar, Turn Player, Talent_48
+    21300098: angin1
+    21300100: 2.Icon, Teks, Bar, Turn Player, Talent_50
+    21300102: 2.Icon, Teks, Bar, Turn Player, Talent_51
+    21300104: 2.Icon, Teks, Bar, Turn Player, Talent_52
+    21300106: angin2
+    21300108: 2.Icon, Teks, Bar, Turn Player, Talent_54
+    21300110: angin3
+    21300112: 2.Icon, Teks, Bar, Turn Player, Talent_56
+    21300114: 2.Icon, Teks, Bar, Turn Player, Talent_57
+    21300116: angin4
+    21300118: 2.Icon, Teks, Bar, Turn Player, Talent_59
+    21300120: angin5
+    21300122: 2.Icon, Teks, Bar, Turn Player, Talent_61
+    21300124: angin6
+    21300126: 2.Icon, Teks, Bar, Turn Player, Talent_63
+    21300128: 2.Icon, Teks, Bar, Turn Player, Talent_64
+    21300130: 2.Icon, Teks, Bar, Turn Player, Talent_65
+    21300132: 2.Icon, Teks, Bar, Turn Player, Talent_66
+    21300134: 2.Icon, Teks, Bar, Turn Player, Talent_67
+    21300136: 2.Icon, Teks, Bar, Turn Player, Talent_68
+    21300138: 2.Icon, Teks, Bar, Turn Player, Talent_69
+    21300140: 2.Icon, Teks, Bar, Turn Player, Talent_70
+    21300142: 2.Icon, Teks, Bar, Turn Player, Talent_71
+    21300144: 2.Icon, Teks, Bar, Turn Player, Talent_72
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_0
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3942
+        width: 442
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SinglePlayer
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3826
+        width: 319
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MultiPlayer
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 3826
+        width: 319
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_3
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3826
+        width: 320
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3826
+        width: 318
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_5
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3826
+        width: 320
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_6
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 3826
+        width: 320
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shield
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3927
+        width: 195
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_8
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3711
+        width: 442
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: singleNotActive
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3477
+        width: 319
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_10
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 3477
+        width: 319
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_11
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3477
+        width: 320
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_12
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3477
+        width: 318
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_13
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3477
+        width: 320
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_14
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 3477
+        width: 320
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_15
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3682
+        width: 195
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3477
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_17
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3477
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal1
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3439
+        width: 195
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3253
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_20
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3253
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SettingButton
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3104
+        width: 319
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_22
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 3104
+        width: 319
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PlayButton
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3104
+        width: 320
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_24
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3104
+        width: 318
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_25
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3104
+        width: 320
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_26
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 3104
+        width: 320
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: heal2
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 3200
+        width: 195
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_28
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3041
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3041
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_30
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2735
+        width: 319
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_31
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2735
+        width: 319
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_32
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 2735
+        width: 320
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_33
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2735
+        width: 318
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: twice
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2947
+        width: 195
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2805
+        width: 130
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_36
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2805
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_37
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 2763
+        width: 263
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_38
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 2763
+        width: 262
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_39
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2704
+        width: 195
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: choosen
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2587
+        width: 125
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gembok
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2574
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_42
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2405
+        width: 262
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: confirm
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2405
+        width: 263
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angin0
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2532
+        width: 515
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poison
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2472
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_46
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2417
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2417
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_48
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2425
+        width: 513
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angin1
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2425
+        width: 515
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_50
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2241
+        width: 195
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_51
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2250
+        width: 210
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_52
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2315
+        width: 513
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angin2
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2315
+        width: 515
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_54
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2206
+        width: 513
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angin3
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2206
+        width: 515
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_56
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1940
+        width: 868
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_57
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 2097
+        width: 513
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angin4
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 2097
+        width: 515
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_59
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1988
+        width: 513
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angin5
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1988
+        width: 515
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_61
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1879
+        width: 513
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: angin6
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1879
+        width: 515
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 649
+        width: 1675
+        height: 1087
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_64
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 1508
+        width: 789
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_65
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1227
+        width: 671
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_66
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 1235
+        width: 131
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_67
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 958
+        width: 302
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_68
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 961
+        width: 510
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_69
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 694
+        width: 484
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_70
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 692
+        width: 509
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_71
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 251
+        width: 1194
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2.Icon, Teks, Bar, Turn Player, Talent_72
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 246
+        width: 999
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

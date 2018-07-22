@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: 08852ed1eca4ed447b055a327496640a
+timeCreated: 1516554059
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aset_char_cwe_0
+    21300002: aset_char_cwe_1
+    21300004: aset_char_cwe_2
+    21300006: aset_char_cwe_3
+    21300008: Tangan
+    21300010: aset_char_cwe_5
+    21300012: aset_char_cwe_6
+    21300014: aset_char_cwe_7
+    21300016: TanganNangisKiri
+    21300018: TanganNangisKanan
+    21300020: KepalaNangis
+    21300022: aset_char_cwe_11
+    21300024: aset_char_cwe_12
+    21300026: BadanDepan
+    21300028: aset_char_cwe_14
+    21300030: aset_char_cwe_15
+    21300032: Badan
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aset_char_cwe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 890
+        width: 711
+        height: 1204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_1
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 891
+        width: 712
+        height: 1203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_2
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 903
+        width: 770
+        height: 1197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_3
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 882
+        width: 838
+        height: 1218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tangan
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 413
+        width: 94
+        height: 295
+      alignment: 9
+      pivot: {x: 0.540778, y: 0.8963069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_5
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 505
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 532
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_7
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 518
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TanganNangisKiri
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 500
+        width: 99
+        height: 195
+      alignment: 9
+      pivot: {x: 0.19987473, y: 0.1307927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TanganNangisKanan
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 500
+        width: 99
+        height: 195
+      alignment: 9
+      pivot: {x: 0.8232126, y: 0.08976957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KepalaNangis
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 95
+        width: 840
+        height: 644
+      alignment: 9
+      pivot: {x: 0.49545375, y: 0.031535357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_11
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 457
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_12
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 492
+        width: 69
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadanDepan
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 210
+        width: 220
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_14
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 442
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aset_char_cwe_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 141
+        height: 318
+      alignment: 9
+      pivot: {x: 0.8741102, y: 0.94146883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Badan
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 71
+        width: 181
+        height: 316
+      alignment: 9
+      pivot: {x: 0.5, y: 0.91089183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

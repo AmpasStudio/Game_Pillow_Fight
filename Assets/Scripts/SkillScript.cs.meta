@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 75863d1922b2ddc47a7ebc3f54f0df43
+timeCreated: 1518449146
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healingEffect: {fileID: 198567553542572896, guid: 45f6407a649c6c740a6faf338bac2ed5,
+      type: 2}
+  - cewekPoison: {instanceID: 0}
+  - cowokPoison: {instanceID: 0}
+  - healButton: {instanceID: 0}
+  - twiceButton: {instanceID: 0}
+  - poisonButton: {instanceID: 0}
+  - shieldButton: {instanceID: 0}
+  - activeSprite: {instanceID: 0}
+  - disabledTwiceButton: {instanceID: 0}
+  - poisonDisabled: {instanceID: 0}
+  - shieldDisabled: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

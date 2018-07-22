@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 3f21aee6a4181734ca1c805e8a058b7f
+timeCreated: 1519112311
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: YesNo
+    21300002: button_flat_shadowcolor_1
+    21300004: button_flat_shadowcolor_2
+    21300006: button_flat_shadowcolor_3
+    21300008: button_flat_shadowcolor_4
+    21300010: button_flat_shadowcolor_5
+    21300012: button_flat_shadowcolor_6
+    21300014: button_flat_shadowcolor_7
+    21300016: button_flat_shadowcolor_8
+    21300018: button_flat_shadowcolor_9
+    21300020: button_flat_shadowcolor_10
+    21300022: button_flat_shadowcolor_11
+    21300024: button_flat_shadowcolor_12
+    21300026: button_flat_shadowcolor_13
+    21300028: button_flat_shadowcolor_14
+    21300030: button_flat_shadowcolor_15
+    21300032: button_flat_shadowcolor_16
+    21300034: button_flat_shadowcolor_17
+    21300036: button_flat_shadowcolor_18
+    21300038: button_flat_shadowcolor_19
+    21300040: button_flat_shadowcolor_20
+    21300042: button_flat_shadowcolor_21
+    21300044: button_flat_shadowcolor_22
+    21300046: button_flat_shadowcolor_23
+    21300048: button_flat_shadowcolor_24
+    21300050: button_flat_shadowcolor_25
+    21300052: button_flat_shadowcolor_26
+    21300054: button_flat_shadowcolor_27
+    21300056: button_flat_shadowcolor_28
+    21300058: button_flat_shadowcolor_29
+    21300060: button_flat_shadowcolor_30
+    21300062: button_flat_shadowcolor_31
+    21300064: button_flat_shadowcolor_32
+    21300066: button_flat_shadowcolor_33
+    21300068: button_flat_shadowcolor_34
+    21300070: button_flat_shadowcolor_35
+    21300072: button_flat_shadowcolor_36
+    21300074: button_flat_shadowcolor_37
+    21300076: button_flat_shadowcolor_38
+    21300078: button_flat_shadowcolor_39
+    21300080: button_flat_shadowcolor_40
+    21300082: button_flat_shadowcolor_41
+    21300084: button_flat_shadowcolor_42
+    21300086: button_flat_shadowcolor_43
+    21300088: button_flat_shadowcolor_44
+    21300090: button_flat_shadowcolor_45
+    21300092: button_flat_shadowcolor_46
+    21300094: button_flat_shadowcolor_47
+    21300096: button_flat_shadowcolor_48
+    21300098: button_flat_shadowcolor_49
+    21300100: button_flat_shadowcolor_50
+    21300102: button_flat_shadowcolor_51
+    21300104: button_flat_shadowcolor_52
+    21300106: button_flat_shadowcolor_53
+    21300108: button_flat_shadowcolor_54
+    21300110: button_flat_shadowcolor_55
+    21300112: button_flat_shadowcolor_56
+    21300114: button_flat_shadowcolor_57
+    21300116: button_flat_shadowcolor_58
+    21300118: button_flat_shadowcolor_59
+    21300120: button_flat_shadowcolor_60
+    21300122: button_flat_shadowcolor_61
+    21300124: button_flat_shadowcolor_62
+    21300126: button_flat_shadowcolor_63
+    21300128: button_flat_shadowcolor_64
+    21300130: button_flat_shadowcolor_65
+    21300132: button_flat_shadowcolor_66
+    21300134: button_flat_shadowcolor_67
+    21300136: button_flat_shadowcolor_68
+    21300138: button_flat_shadowcolor_69
+    21300140: button_flat_shadowcolor_70
+    21300142: button_flat_shadowcolor_71
+    21300144: button_flat_shadowcolor_72
+    21300146: button_flat_shadowcolor_73
+    21300148: button_flat_shadowcolor_74
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YesNo
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2341
+        width: 466
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2341
+        width: 466
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_2
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2342
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_3
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2342
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2342
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2104
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2104
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_7
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2104
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2104
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_9
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 2104
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_10
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2104
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_11
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2104
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1868
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1868
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_14
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1868
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1868
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_16
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1868
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1868
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_18
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1868
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1632
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_21
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1632
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_22
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1632
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_23
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1632
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_24
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1632
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_25
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1632
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_27
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1400
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_28
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1400
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1400
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_30
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1400
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_31
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1400
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_32
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1400
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1170
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_35
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1170
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_36
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1170
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_37
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1170
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_38
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1170
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_39
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1170
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_41
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 927
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_42
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 927
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_43
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 927
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_44
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 927
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_45
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 927
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_46
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 927
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 691
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 691
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_49
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 691
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_50
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 691
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_51
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 691
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_52
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 691
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_53
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 691
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 200
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_55
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 456
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_56
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 456
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_57
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 456
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_58
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 456
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_59
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 456
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_60
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 456
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 227
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_63
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 227
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_64
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 227
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_65
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 227
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_66
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 227
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_67
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 227
+        width: 201
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_69
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_70
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_72
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_73
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_flat_shadowcolor_74
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
